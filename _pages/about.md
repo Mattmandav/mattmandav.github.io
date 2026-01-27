@@ -33,6 +33,6 @@ coming soon...
 
 <div style="text-align: center;">
   <a href="/mug/">
-    <img src="../images/favicon-192x192.png" style="width: 10%; height: 10%;">
+    <img src="../images/favicon-192x192.png" style="width: 100px; height: 100px;">
   </a>
 </div>
