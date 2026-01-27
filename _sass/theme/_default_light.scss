@@ -16,6 +16,7 @@ $info-color                 : #2f7f93;
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
+$text                       : #000000;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -40,9 +41,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color                 : #52adc8;
     --global-link-color-hover           : mix(#000, #2f7f93, 25%);
     --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #{$basically-black};
+    --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
-    --global-text-color                 : #{$basically-black};
+    --global-text-color                 : #{$text};
     --global-text-color-light           : #{$basically-black};
     --global-thead-color                : #{$basically-black};
 }
