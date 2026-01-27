@@ -13,7 +13,7 @@ This is the personal website of Matthew Davison. Use the links above to see my t
   <img src="../images/IMG_top.jpeg" style="width: 100%; height: 100px; object-fit: cover;">
 </div>
 
-<br/><br/>
+<br/>
 
 Biography
 ======
@@ -24,15 +24,15 @@ coming soon...
   <img src="../images/IMG_bottom.jpeg" style="width: 100%; height: 100px; object-fit: cover;">
 </div>
 
-<br/><br/>
+<br/>
 
 Projects
 ======
 
 coming soon...
 
-<a href="/mug/">
-  <div style="text-align: center;">
+<div style="text-align: center;">
+  <a href="/mug/">
     <img src="../images/favicon-192x192.png" style="width: 10%; height: 10%;">
-  </div>
-</a>
+  </a>
+</div>
