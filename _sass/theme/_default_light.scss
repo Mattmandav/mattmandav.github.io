@@ -29,7 +29,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #bf8b5e;
+    --global-bg-color                   : #340e79;
     --global-footer-bg-color            : #735338;
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
@@ -42,7 +42,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-masthead-link-color        : #{$dark-gray};
     --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
     --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
+    --global-text-color-light           : #{$dark-gray};
+    --global-thead-color                : #{$dark-gray};
 }
 
