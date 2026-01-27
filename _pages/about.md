@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+This is the homepage the personal website of Matthew Davison.
+
 Interests
 ======
 
