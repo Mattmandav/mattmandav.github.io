@@ -9,20 +9,24 @@ redirect_from:
 
 This is the personal website of Matthew Davison. Use the links above to see my talks, teaching activities and publications. Keep reading for information about myself and the academic projects I have worked on.
 
-<img src="/images/IMG_top.jpeg" height= "100"/>
+<div style="text-align: center;">
+  <img src="../images/IMG_top.jpeg" style="width: 100%; height: 100px;">
+</div>
 
 Biography
 ======
 
 coming soon...
 
-<img src="/images/IMG_bottom.jpeg" height= "100"/>
+<div style="text-align: center;">
+  <img src="../images/IMG_bottom.jpeg" style="width: 100%; height: 100px;">
+</div>
 
 Projects
 ======
 
 coming soon...
 
-<p align="center">
-  <img src="/images/favicon-192x192.png" height= "192"/>
-</p>
+<div style="text-align: center;">
+  <img src="../images/favicon-192x192.png" style="width: 192px; height: 192px;">
+</div>
