@@ -9,7 +9,7 @@ redirect_from:
 
 > Welcome to my personal website. Use the links above to read about my talks, teaching activities and publications. See below for information about myself and some recent projects.
 >
-> <div style="text-align: right"> &mdash; Matthew </div>
+> &mdash; Matthew
 
 <br/>
 
