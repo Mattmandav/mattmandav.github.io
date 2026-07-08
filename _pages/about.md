@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-> Welcome to my personal website. Use the links above to read about my talks, teaching activities and publications. See below for information about myself and some recent projects.
+> Welcome to my personal website. Use the link above to see my publications. See below for information about myself and some recent projects.
 >
-> &mdash; Matthew
+> &mdash; Matt
 
 <br/>
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="../images/IMG_top.jpeg" style="width: 100%; height: 100px; object-fit: cover;">
 </div>
 
-<br/>
+<br/> -->
 
 Projects
 ======
@@ -32,9 +32,9 @@ Projects
   - [Thesis](https://eprints.lancs.ac.uk/id/eprint/233619/)
   - [Modelling paper](https://link.springer.com/article/10.1007/s10951-024-00817-w)
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="../images/IMG_bottom.jpeg" style="width: 100%; height: 100px; object-fit: cover;">
-</div>
+</div> -->
 
 <br/>
 
