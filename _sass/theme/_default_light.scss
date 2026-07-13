@@ -1,5 +1,6 @@
 /* ==========================================================================
-    DEFAULT THEME - DARK VERSION (Actually Light)
+    DEFAULT THEME - FORCED DARK
+    (was: DEFAULT THEME - LIGHT VERSION)
     ========================================================================== */
 
 /* Color codes used for the theme */
@@ -34,8 +35,10 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Dark theme for the site */
-html[data-theme="dark"] {
+/* Dark theme forced as the unconditional default for the site.
+   No data-theme attribute or system preference can override this,
+   because there is no longer a light :root definition to fall back to. */
+:root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
@@ -53,4 +56,3 @@ html[data-theme="dark"] {
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
 }
-
