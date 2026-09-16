@@ -6,6 +6,8 @@ permalink: /activities/
 
 A variety of common markup showing how the theme styles them.
 
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+
 # Header one
 
 ## Header two

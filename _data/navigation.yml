@@ -10,10 +10,10 @@
 main:
 
   - title: "Activities"
-    url: /talks/    
+    url: /activities/    
 
   - title: "Teaching"
-    url: /teaching/  
+    url: /teaching/
 
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=z1qtLB4AAAAJ"
