@@ -9,7 +9,7 @@ A variety of common markup showing how the theme styles them.
 ## Activities
 
 | Date       | Type         | Location     | Title                                                   |
-| ---------- | ------------ | ---------------------------------------------------------------------- |
+| ---------- | ------------ | ------------ | ------------------------------------------------------- |
 | 09/05/2025 | Presentation | STOR-i Forum | Operation STOR-i Time(tabling) – Our entry to IHTC-2024 |
 
 
