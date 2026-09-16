@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
+title: "Activities"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /activities/
 ---
 
 A variety of common markup showing how the theme styles them.

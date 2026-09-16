@@ -9,11 +9,11 @@
 
 main:
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Activities"
+    url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/  
 
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=z1qtLB4AAAAJ"
