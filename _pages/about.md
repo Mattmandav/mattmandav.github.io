@@ -13,12 +13,6 @@ redirect_from:
 
 <br/>
 
-<!-- <div style="text-align: center;">
-  <img src="../images/IMG_top.jpeg" style="width: 100%; height: 100px; object-fit: cover;">
-</div>
-
-<br/> -->
-
 Projects
 ======
 
@@ -31,10 +25,6 @@ Projects
 * Modelling and solving multi-objective university course timetabling problems
   - [Thesis](https://eprints.lancs.ac.uk/id/eprint/233619/)
   - [Modelling paper](https://link.springer.com/article/10.1007/s10951-024-00817-w)
-
-<!-- <div style="text-align: center;">
-  <img src="../images/IMG_bottom.jpeg" style="width: 100%; height: 100px; object-fit: cover;">
-</div> -->
 
 <br/>
 

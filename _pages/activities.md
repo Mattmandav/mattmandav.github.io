@@ -19,8 +19,3 @@ permalink: /activities/
 | 25/04/2022 | Poster       | STOR-i Data on the Lakes                   | University Course Timetabling                                                                    |
 | 01/04/2022 | Poster       | Lancaster University FST Science Week 2022 | University Course Timetabling                                                                    |
 | 04/02/2022 | Presentation | STOR-i Forum                               | University Course Timetabling                                                                    |
-
-## Map in progress
-
-This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb">talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
