@@ -1,0 +1,29 @@
+/* ==========================================================================
+   SITE-SPECIFIC STYLES
+   Loaded last, so anything here overrides the template's layout files.
+   ========================================================================== */
+
+/* Mug stripes under the top menu, in place of the plain 1px rule.
+   The padding keeps the band below the menu rather than under it. */
+.masthead {
+  padding-bottom: 12px;
+}
+
+.masthead::after {
+  z-index: 1;
+  height: 12px;
+  background: linear-gradient(
+    to bottom,
+    $mug-apricot   0    3px,
+    $mug-duck-egg  3px  6px,
+    $mug-red       6px  7px,
+    $mug-lime      7px  10px,
+    $mug-cream     10px 12px
+  );
+}
+
+/* Headings and the sidebar name a step brighter than body text */
+h1, h2, h3, h4, h5, h6,
+.author__name {
+  color: var(--global-text-color-strong);
+}

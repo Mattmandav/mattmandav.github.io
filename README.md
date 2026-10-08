@@ -9,7 +9,8 @@ Built with Jekyll, starting from the [Academic Pages](https://github.com/academi
 - `_pages/`: page content (About, Activities, Teaching, ...)
 - `_data/navigation.yml`: top menu links
 - `_config.yml`: site settings and sidebar profile
-- `_sass/theme/_palette.scss`: all site colours
+- `_sass/theme/_palette.scss`: all site colours (taken from my favourite mug)
+- `_sass/_custom.scss`: site-specific style overrides, loaded last
 - `images/`: profile photo, favicons, other images
 
 ## Running locally

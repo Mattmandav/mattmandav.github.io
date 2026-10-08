@@ -1,19 +1,29 @@
 /* ==========================================================================
    SITE PALETTE
-   Single warm dark palette. Replaces the template's twelve light/dark
-   theme files; there is no light mode and no theme toggle.
+   Taken from my favourite mug (see /mug/ and the favicon). One warm dark
+   palette: there is no light mode and no theme toggle.
    Contrast ratios are against $background (WCAG AA body text needs 4.5).
    ========================================================================== */
 
-/* Core palette */
-$background                 : #2b2420;  // espresso brown
-$surface                    : #362e29;  // raised areas: code, table headers
-$border                     : #5c4f45;  // warm grey-brown rules and outlines
-$text                       : #e8e0d5;  // cream, 11.7:1
-$text-muted                 : #b5a898;  // captions and secondary text, 6.6:1
-$accent                     : #dcae5f;  // brass, 7.5:1
-$accent-hover               : #efcb8c;  // lighter on hover, 9.9:1
-$accent-visited             : #c99d6a;  // slightly softer brass, 6.2:1
+/* Mug colours */
+$mug-chocolate              : #2e231c;  // the dark brown stripe, used as the page
+$mug-cream                  : #d9cab0;  // favicon cream
+$mug-apricot                : #efa165;  // the orange stripes and handle
+$mug-duck-egg               : #a8cbc4;  // the pale blue stripes
+$mug-lime                   : #cfd984;  // favicon lime
+$mug-olive                  : #a6a053;  // favicon olive
+$mug-red                    : #8c322a;  // favicon red (decoration only, too dark for text)
+
+/* Roles */
+$background                 : $mug-chocolate;
+$surface                    : #3b2e26;  // raised areas: code, table headers
+$border                     : #5f4a3d;  // rules and outlines
+$text                       : $mug-cream;   // 9.5:1
+$text-strong                : #ece2cf;  // headings and names, 11.9:1
+$text-muted                 : #bfb099;  // captions and secondary text, 7.2:1
+$accent                     : $mug-apricot; // links, 7.3:1
+$accent-hover               : #f7c49a;  // lighter on hover, 9.7:1
+$accent-visited             : #d79a6c;  // softer apricot, 6.4:1
 
 /* Names the template's layout files still expect */
 $primary-color              : $accent;
@@ -28,11 +38,11 @@ $link-dark                  : $accent-hover;
 $link-light                 : $accent-visited;
 
 /* Status colours (only used by notices and buttons) */
-$danger-color               : #e07a6f;
-$info-color                 : #7fa3a8;
+$danger-color               : #c4574a;
+$info-color                 : $mug-duck-egg;
 $notice-color               : $gray;
-$success-color              : #8fb07a;
-$warning-color              : $accent;
+$success-color              : $mug-olive;
+$warning-color              : $mug-apricot;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -57,9 +67,10 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color                 : #{$accent};
     --global-link-color-hover           : #{$accent-hover};
     --global-link-color-visited         : #{$accent-visited};
-    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color        : #{$text-strong};
     --global-masthead-link-color-hover  : #{$accent};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
+    --global-text-color-strong          : #{$text-strong};
     --global-thead-color                : #{$surface};
 }
