@@ -14,6 +14,7 @@ This page contains a list of teaching and supervision activities I have undertak
 
 ## Teaching
 
+- 2025/26: Aarhus University Workshop Tutor for Advanced Convex Optimization.
 - 2022/23: Lancaster University GTA for MSCI222.
 - 2022/23: Lancaster University GTA for STOR607.
 - 2021/22: Lancaster University GTA for MSCI224.
