@@ -44,16 +44,9 @@ h3 {
   font-size: $type-size-5;
 }
 
-h4 {
-  font-size: $type-size-6;
-}
-
-h5 {
-  font-size: $type-size-6;
-}
-
-h6 {
-  font-size: $type-size-6;
+/* Minor headings stay at body size (bold sets them apart), never smaller */
+h4, h5, h6 {
+  font-size: $type-size-5;
 }
 
 small, .small {
