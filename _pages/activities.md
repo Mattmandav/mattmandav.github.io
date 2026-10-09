@@ -6,7 +6,11 @@ permalink: /activities/
 
 | Date       | Type         | Location                                   | Title                                                                                            |
 | ---------- | ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| 09/05/2025 | Presentation | STOR-i Forum                               | Operation STOR-i Time(tabling) – Our entry to IHTC-2024                                          |
+| 26/08/2026 | Presentation | PATAT 2026                                 | Mathematical Techniques for Evaluating University Timetabling Policies                           |
+| 15/07/2026 | Presentation | IFORS 2026                                 | Feasibility of university course timetabling                                                     |
+| 15/04/2026 | Presentation | Aarhus BSS                                 | Feasibility of university timetables for decision support                                        |
+| 23/06/2025 | Presentation | EURO 2025                                  | Operation STOR-i Time(tabling) - Our entry to IHTC-2024                                          |
+| 09/05/2025 | Presentation | STOR-i Forum                               | Operation STOR-i Time(tabling) - Our entry to IHTC-2024                                          |
 | 28/08/2024 | Presentation | PATAT 2024                                 | Matheuristic for Approximating a Frontier for a Many-objective University Timetabling Problem    |
 | 22/05/2024 | Poster       | STOR-i Data on the Shire                   | University Course Timetabling                                                                    |
 | 15/01/2024 | Presentation | STOR-i Forum                               | Exploring a Many-objective University Timetabling Problem (Extended)                             |
